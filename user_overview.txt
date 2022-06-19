@@ -1,0 +1,59 @@
+Total number of users:		8
+Total number of tasks:		13
+
+USER: admin
+Task assigned:			3
+Assigned task percentage:	23.0
+Completed tasks percentage:	33.0
+Uncompleted tasks percentage:	67.0
+Overdue task percentage:	0.0
+
+USER: lolo
+Task assigned:			2
+Assigned task percentage:	15.0
+Completed tasks percentage:	0.0
+Uncompleted tasks percentage:	100.0
+Overdue task percentage:	50.0
+
+USER: mfana
+Task assigned:			4
+Assigned task percentage:	31.0
+Completed tasks percentage:	75.0
+Uncompleted tasks percentage:	25.0
+Overdue task percentage:	0.0
+
+USER: Sinalo
+Task assigned:			1
+Assigned task percentage:	8.0
+Completed tasks percentage:	0.0
+Uncompleted tasks percentage:	100.0
+Overdue task percentage:	0.0
+
+USER: akumi
+Task assigned:			1
+Assigned task percentage:	8.0
+Completed tasks percentage:	0.0
+Uncompleted tasks percentage:	100.0
+Overdue task percentage:	0.0
+
+USER: Tapiwa
+Task assigned:			0
+Assigned task percentage:	0.0
+Completed tasks percentage:	0
+Uncompleted tasks percentage:	0
+Overdue task percentage:	0
+
+USER: chuma
+Task assigned:			1
+Assigned task percentage:	8.0
+Completed tasks percentage:	0.0
+Uncompleted tasks percentage:	100.0
+Overdue task percentage:	100.0
+
+USER: amahle
+Task assigned:			1
+Assigned task percentage:	8.0
+Completed tasks percentage:	0.0
+Uncompleted tasks percentage:	100.0
+Overdue task percentage:	0.0
+

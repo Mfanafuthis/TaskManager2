@@ -1,0 +1,13 @@
+admin,  Register Users with taskManager.py,  Use taskManager.py to add the usernames and passwords for all team members that will be using this program.,  10 Oct 2019,  20 Oct 2019, Yes
+admin,   Assign initial tasks,   Use taskManager.py to assign each team member with appropriate tasks,   10 Oct 2019, 25 Dec 2023,   No
+mfana,  Read,  Read all the books,  22 Apr 2022,  25 Aug 2022, Yes
+mfana,  Clean,  Clean the yard,  22 Apr 2022,  07 Dec 2022,  No
+lolo, Driving, Drive to KZN to deliver milk for my grand mom, 22 Apr 2022, 25 Dec 2022, No
+akumi,  Great People,  Say hi to people,  22 Apr 2022,  29 Dec 2022,  No
+mfana,   Love,   Love people,   23 Apr 2022,  25 Dec 2022, Yes
+Sinalo, Clean, Clean of paint, 05 May 2022, 19 Aug 2022, No
+chuma, Play, Play whole day, 12 May 2022, 12 May 2022, No
+admin,    Collect information,    Collect information for all the student registered,    12 May 2022,    20 Jun 2022,    No
+amahle, Teach, Teach people, 12 May 2022, 25 Dec 2022, No
+mfana,     Fetch,     Fetch Lolo on time from work,     13 May 2022,  25 Dec 2022, Yes
+lolo, Shopping, Go for shopping in a mall, 13 May 2022, 25 May 2022, No
