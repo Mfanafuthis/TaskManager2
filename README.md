@@ -1,5 +1,5 @@
 # TASK MANAGER v2
-This program helps small business to manage tasks assigned to each member of the team.
+This program helps small business to manage tasks assigned to each member of the team. Also generate reports and view stats.
 ## TABLE OF CONTENT
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -12,7 +12,7 @@ This program helps small business to manage tasks assigned to each member of the
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contacts)
 ## GENERAL INFORMATION
-The program with works two text files, user.txt and tasks.txt. It stores a list of all the tasks that the team is working on in tasks.txt file. user.txt stores the username
+The program with works four text files, task_overview.txr, user_overview.txt user.txt and tasks.txt. It stores a list of all the tasks that the team is working on in tasks.txt file. user.txt stores the username
 and password for each user that has permission to use the program
 ## TECHNOLOGIES USED
 * Python IDLE 3.10
@@ -34,8 +34,6 @@ and password for each user that has permission to use the program
 <img src = "screenshoots/Capture1.PNG" width  = 400>
 <img src = "screenshoots/Capture2.PNG" width  = 400>
 <img src = "screenshoots/Capture3.PNG" width  = 400>
-<img src = "screenshoots/Capture4.PNG" width  = 400>
-<img src = "screenshoots/Capture5.PNG" width  = 400>
 ## SETUP
 Download a program to a folder of your choice. Also download the text files on the same folder before you run the program. Use one of the following technologies to run the program.
 This program can executed using:
