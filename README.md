@@ -27,6 +27,7 @@ and password for each user that has permission to use the program
 * View all the tasks stored in tasks.txt
 * View only tasks assigned to a specific user
 * View statics 
+* Generate task reports
 ## SCREENSHOTS
 <br><br>
 <img src = "screenshoots/Capture.PNG" width  = 400>
@@ -47,6 +48,8 @@ Once all the files have been downloaded on to the single folder follow the steps
 2. The program will ask you to enter username and password. Use **admin** as username and **adm1n** as password
 3. You will then have access to all the obtions and you can register new users
 4. Only admin can register new users 
+5. Admin has access to more obtion
+6. Only admin can generate reports and view stats
 ## PROJECT STATUS
 * Completed
 ## ROOM FOR IMPROVEMENT
@@ -54,7 +57,7 @@ Once all the files have been downloaded on to the single folder follow the steps
 ## ACKNOWLEDGEMENTS
 This project was inspired by HyperionDev
 It was based on Capstone Project 2 Level 1 Task 23
-Many thanks to Njabulo Phiri for reviewing code
+Many thanks to Ikenna Tshabalala for reviewing code
 ## CONTACTS
 Created by mfanafuthis@hotmail.com
 Cell no: 0735603009
