@@ -42,16 +42,16 @@ This program can executed using:
 * or any python compatible IDE
 ## USAGE
 Once all the files have been downloaded on to the single folder follow the steps below to run you program
-1. Diploy/execute the program
+1. Deploy/execute the program
 2. The program will ask you to enter username and password. Use **admin** as username and **adm1n** as password
-3. You will then have access to all the obtions and you can register new users
+3. You will then have access to all the options and you can register new users
 4. Only admin can register new users 
-5. Admin has access to more obtion
+5. Admin has access to more options
 6. Only admin can generate reports and view stats
 ## PROJECT STATUS
 * Completed
 ## ROOM FOR IMPROVEMENT
-* Follow more OOP style of programing
+* Follow more OOP style of programming
 ## ACKNOWLEDGEMENTS
 This project was inspired by HyperionDev
 It was based on Capstone Project 2 Level 1 Task 23
